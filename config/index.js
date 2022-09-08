@@ -44,7 +44,7 @@ export const config = {
       openUrl: "https://cn.bing.com/images/trending?form=Z9LH"
     }, 
     {
-      name: "老婆", 
+      name: "小叶同学，早上好", 
       id: "oeMBj6lltlSI6X2sEH1eEauFqLKw",
       useTemplateId: "EqpQSOehiow-oJhI2Z9j2WLfyivjgL8ku3UMbo88DSE",
       province: "陕西",
