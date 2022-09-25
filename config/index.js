@@ -35,7 +35,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oeMBj6smI6peN4c4qpIibh2CfsTk",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "	0lvLOfHoG-nsIIGxSMouF9ysxOyVw6yLZootXZ2HPyA",
+      useTemplateId: "0lvLOfHoG-nsIIGxSMouF9ysxOyVw6yLZootXZ2HPyA",
       // 所在省份
       province: "陕西",
       // 所在城市
@@ -46,7 +46,7 @@ export const config = {
     {
       name: "小叶同学，早上好", 
       id: "oeMBj6lltlSI6X2sEH1eEauFqLKw",
-      useTemplateId: "	0lvLOfHoG-nsIIGxSMouF9ysxOyVw6yLZootXZ2HPyA",
+      useTemplateId: "0lvLOfHoG-nsIIGxSMouF9ysxOyVw6yLZootXZ2HPyA",
       province: "陕西",
       city: "安康",
       openUrl: "https://cn.bing.com/images/trending?form=Z9LH"
