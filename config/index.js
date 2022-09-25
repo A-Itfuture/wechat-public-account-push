@@ -35,7 +35,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oeMBj6smI6peN4c4qpIibh2CfsTk",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "EqpQSOehiow-oJhI2Z9j2WLfyivjgL8ku3UMbo88DSE",
+      useTemplateId: "	0lvLOfHoG-nsIIGxSMouF9ysxOyVw6yLZootXZ2HPyA",
       // 所在省份
       province: "陕西",
       // 所在城市
@@ -46,7 +46,7 @@ export const config = {
     {
       name: "小叶同学，早上好", 
       id: "oeMBj6lltlSI6X2sEH1eEauFqLKw",
-      useTemplateId: "EqpQSOehiow-oJhI2Z9j2WLfyivjgL8ku3UMbo88DSE",
+      useTemplateId: "	0lvLOfHoG-nsIIGxSMouF9ysxOyVw6yLZootXZ2HPyA",
       province: "陕西",
       city: "安康",
       openUrl: "https://cn.bing.com/images/trending?form=Z9LH"
@@ -91,10 +91,14 @@ export const config = {
    * 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
    */
   FESTIVALS: [
+    {"type": "节日", "name": "生理期", "year": "2020", "date": "10-12"},
+//     {"type": "节日", "name": "生理期", "year": "2020", "date": "11-11"},
+//     {"type": "节日", "name": "生理期", "year": "2020", "date": "12-11"},
+    //     {"type": "节日", "name": "生理期", "year": "2020", "date": "01-10"},
     {"type": "生日", "name": "小叶同学", "year": "1999", "date": "04-20"},
     {"type": "节日", "name": "恋爱纪念日", "year": "2020", "date": "03-05"},
     {"type": "生日", "name": "小王同学", "year": "1998", "date": "04-04"},
-    {"type": "节日", "name": "被搭讪纪念日", "year": "2020", "date": "02-03"},
+//     {"type": "节日", "name": "被搭讪纪念日", "year": "2020", "date": "02-03"},
   ],
 
   /**
