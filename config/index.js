@@ -48,25 +48,10 @@ export const config = {
       id: "oeMBj6lltlSI6X2sEH1eEauFqLKw",
       useTemplateId: "EqpQSOehiow-oJhI2Z9j2WLfyivjgL8ku3UMbo88DSE",
       province: "陕西",
-      city: "渭南",
+      city: "安康",
       openUrl: "https://cn.bing.com/images/trending?form=Z9LH"
     }, 
-    {
-      name: "老婆2",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      openUrl: "https://wangxinleo.cn"
-    }, 
-    {
-      name: "老婆3", 
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      openUrl: "https://wangxinleo.cn"
-    }, 
+    
   ],
 
   /**
@@ -82,7 +67,7 @@ export const config = {
       // 一般都填自己
       name: "自己",
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "ohx12OO6VskYv03Kuf43ywIZVRM4puXhk",
+      id: "oeMBj6smI6peN4c4qpIibh2CfsTk",
     }, 
   ],
     
@@ -93,9 +78,9 @@ export const config = {
   /** 天气相关 */
 
   // 默认所在省份, USERS 中没填的话, 会默认拿这里的省份
-  PROVINCE: "广东",
+  PROVINCE: "陕西",
   // 默认所在城市, USERS 中没填的话, 会默认拿这里的城市
-  CITY: "惠州",
+  CITY: "西安",
 
   /** 重要节日相关 */
 
@@ -106,10 +91,10 @@ export const config = {
    * 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
    */
   FESTIVALS: [
-    {"type": "生日", "name": "老婆", "year": "1996", "date": "09-02"},
-    {"type": "节日", "name": "结婚纪念日", "year": "2020", "date": "09-03"},
-    {"type": "生日", "name": "李四", "year": "1996", "date": "09-31"},
-    {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "09-01"},
+    {"type": "生日", "name": "小叶同学", "year": "1999", "date": "04-20"},
+    {"type": "节日", "name": "恋爱纪念日", "year": "2020", "date": "03-05"},
+    {"type": "生日", "name": "小王同学", "year": "1998", "date": "04-04"},
+    {"type": "节日", "name": "被搭讪纪念日", "year": "2020", "date": "02-03"},
   ],
 
   /**
@@ -127,9 +112,9 @@ export const config = {
     * */
   CUSTOMIZED_DATE_LIST: [
     // 在一起的日子
-    {"keyword": "love_day", date: "2015-05-01"},
+    {"keyword": "love_day", date: "2020-03-05"},
     // 结婚纪念日
-    {"keyword": "marry_day", date: "2020-01-04"},
+    {"keyword": "marry_day", date: "2023-07-01"},
     // 退伍日, 不用可以删掉
     {"keyword": "ex_day", date: "2022-08-31"},
     // sakana日
@@ -152,6 +137,14 @@ export const config = {
       "申请成为你爱里的永久居民。",
       "你很傻，你很笨，可我还是很羡慕你，因为你有我",
       "遇见你，就好像捡到了100斤的运气",
+      "承蒙你出现，够我欢喜好几年。",
+      "我想和你过面朝大海，春暖花开的日子，余生都有你。",
+      "怕无归期，怕空欢喜，怕来者不是你。",
+      "只要你还在我身后，我就可以微笑着与世界为敌。",
+      "一辈子和你在一起，才叫将来，换了别人，那叫将就。",
+      "我只有两个心愿，你在身边，在你身边。",
+      " 我贪恋的人间烟火，不偏不倚，全部是你。",
+      "我发现你不适合谈恋爱，适合结婚。"
     ]},
   ],
 
