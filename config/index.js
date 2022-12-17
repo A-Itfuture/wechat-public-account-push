@@ -39,7 +39,7 @@ export const config = {
       // 所在省份
       province: "陕西",
       // 所在城市
-      city: "西安",
+      city: "渭南",
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
       openUrl: "https://cn.bing.com/images/trending?form=Z9LH"
     }, 
@@ -48,7 +48,7 @@ export const config = {
       id: "oeMBj6lltlSI6X2sEH1eEauFqLKw",
       useTemplateId: "0lvLOfHoG-nsIIGxSMouF9ysxOyVw6yLZootXZ2HPyA",
       province: "陕西",
-      city: "安康",
+      city: "渭南",
       openUrl: "https://cn.bing.com/images/trending?form=Z9LH"
     }, 
     
@@ -80,7 +80,7 @@ export const config = {
   // 默认所在省份, USERS 中没填的话, 会默认拿这里的省份
   PROVINCE: "陕西",
   // 默认所在城市, USERS 中没填的话, 会默认拿这里的城市
-  CITY: "西安",
+  CITY: "渭南",
 
   /** 重要节日相关 */
 
@@ -91,7 +91,7 @@ export const config = {
    * 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
    */
   FESTIVALS: [
-    {"type": "节日", "name": "生理期", "year": "2022", "date": "12-12"},
+    {"type": "节日", "name": "生理期", "year": "2023", "date": "01-15"},
 //     {"type": "节日", "name": "生理期", "year": "2020", "date": "11-11"},
 //     {"type": "节日", "name": "生理期", "year": "2020", "date": "12-11"},
     //     {"type": "节日", "name": "生理期", "year": "2020", "date": "01-10"},
