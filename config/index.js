@@ -91,7 +91,7 @@ export const config = {
    * 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
    */
   FESTIVALS: [
-    {"type": "节日", "name": "生理期", "year": "2023", "date": "02-16"},
+    {"type": "节日", "name": "生理期", "year": "2023", "date": "03-19"},
 //     {"type": "节日", "name": "生理期", "year": "2020", "date": "11-11"},
 //     {"type": "节日", "name": "生理期", "year": "2020", "date": "12-11"},
     //     {"type": "节日", "name": "生理期", "year": "2020", "date": "01-10"},
