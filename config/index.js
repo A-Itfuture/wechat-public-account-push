@@ -37,9 +37,9 @@ export const config = {
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "0lvLOfHoG-nsIIGxSMouF9ysxOyVw6yLZootXZ2HPyA",
       // 所在省份
-      province: "陕西",
+      province: "北京",
       // 所在城市
-      city: "渭南",
+      city: "西城区",
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
       openUrl: "https://cn.bing.com/images/trending?form=Z9LH"
     }, 
@@ -91,7 +91,7 @@ export const config = {
    * 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
    */
   FESTIVALS: [
-    {"type": "节日", "name": "生理期", "year": "2023", "date": "03-19"},
+    {"type": "节日", "name": "生理期", "year": "2023", "date": "04-19"},
 //     {"type": "节日", "name": "生理期", "year": "2020", "date": "11-11"},
 //     {"type": "节日", "name": "生理期", "year": "2020", "date": "12-11"},
     //     {"type": "节日", "name": "生理期", "year": "2020", "date": "01-10"},
